@@ -1,5 +1,4 @@
 .place__website-url-heading {
-  font-family: Inter, Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
@@ -10,4 +9,5 @@
   align-self: end;
   margin: 0;
   padding-bottom: 12px;
+  display: block;
 }

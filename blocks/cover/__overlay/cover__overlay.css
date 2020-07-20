@@ -9,6 +9,10 @@
   bottom: 0;
   left: 0;
   text-decoration: none;
+  background-image: url('../../../images/cover-trains.png');
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 .cover__overlay:before {

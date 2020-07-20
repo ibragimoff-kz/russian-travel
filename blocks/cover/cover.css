@@ -1,9 +1,6 @@
 .cover {
   position: relative;
   margin: 92px 48px 0;
-  background-image: url('../../images/cover-trains.png');
-  background-position: center;
-  background-size: contain;
   padding-bottom: calc(62.5% - 60px);
 }
 
