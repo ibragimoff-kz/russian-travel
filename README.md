@@ -1,7 +1,7 @@
 # Проект 3: Путешествия по России
 
 **Ссылка на проект**
-https://ibragimoff-kz.github.io/russian-travel/index.html
+https://ibragimoff-kz.github.io/russian-travel
 
 **О проекте**
 Проект о путешествиях по России, созданный в рамках обучения на Яндекс.Практикуме.
