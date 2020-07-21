@@ -26,6 +26,7 @@
   .cover__title {
     font-size: 40px;
     line-height: 44px;
+  }
 }
 
 @media (max-width: 405px) {
