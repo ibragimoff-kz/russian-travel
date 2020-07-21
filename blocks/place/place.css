@@ -10,7 +10,6 @@
   .place {
     grid-column-gap: 32px;
     grid-template-columns: 440px minmax(100px, 456px);
-    margin-bottom: 84px;
   }
 }
 
